@@ -1,19 +1,19 @@
 | Tutorial para configurar COBOL |
 | ------------------------------ |
 
-## 1. Baixar o VSCode - buscar no Google;
+# 1. Baixar o VSCode - buscar no Google;
 
-## 2. Instalar o VSCode (seguir as instruçoes);
+# 2. Instalar o VSCode (seguir as instruçoes);
 
-## 3. Após instalar, abrir o VSCode e instalar a extensao "IntelliSense - Highlight" apenas;
+# 3. Após instalar, abrir o VSCode e instalar a extensao "IntelliSense - Highlight" apenas;
 
-## 4. Baixar os binários do GNU COBOL para Windows (compilados)
+# 4. Baixar os binários do GNU COBOL para Windows (compilados)
 
 em: https://drive.google.com/file/d/1vxzD... (link na descricao do video)
 
-## 5. Criar uma pasta na unidade raiz (geralmente, c:\) - Exemplo: C:\GNUCOBOL;
+# 5. Criar uma pasta na unidade raiz (geralmente, c:\) - Exemplo: C:\GNUCOBOL;
 
-## 6. Fazer as configuraçoes das variaveis de ambiente em "Variaveis do Sistema":
+# 6. Fazer as configuraçoes das variaveis de ambiente em "Variaveis do Sistema":
 
 6.1. Criar a variavel COBOL_HOME e apontar para o diretorio principal do GNU COBOL;
 6.2. Criar as variaveis:
@@ -22,14 +22,14 @@ em: https://drive.google.com/file/d/1vxzD... (link na descricao do video)
 6.2.3. COB_COPY_DIR: apontar para sub-diretorio "copy" do GNU COBOL;
 6.2.4. COB_INCLUDE_PATH: apontar para sub-diretorio "lib" do GNU COBOL;
 
-## 7. Adicionar as variaveis de ambiente de sistema na variável "path" do sistema;
+# 7. Adicionar as variaveis de ambiente de sistema na variável "path" do sistema;
 
-## 8. Abrir um prompt de comando e testar a chamada com "cobc -v";
+# 8. Abrir um prompt de comando e testar a chamada com "cobc -v";
 
-## 9. Se der tudo certo, criar uma workspace e um diretório no VS Code e criar um
+# 9. Se der tudo certo, criar uma workspace e um diretório no VS Code e criar um
 
 arquivo .cob nele;
 
-## 10. Digitar um código COBOL básico (só pra testar);
+# 10. Digitar um código COBOL básico (só pra testar);
 
-## 11. Abrir um novo terminal no VS Code, acessar o diretório e compilar o código criado.
+# 11. Abrir um novo terminal no VS Code, acessar o diretório e compilar o código criado.
