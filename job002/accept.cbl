@@ -20,6 +20,6 @@
            ACCEPT DIA-ANO FROM DAY YYYYDDD.
            ACCEPT TEMPO-ATUAL FROM TIME.
            DISPLAY "Data é " DATA-ATUAL "/" MES-ATUAL "/" ANO-ATUAL.
-           DISPLAY "Hoje é o dia " DIA-DO-ANO "do ano".
+           DISPLAY "Hoje é o dia " DIA-DO-ANO " do ano".
            DISPLAY "A hora é " HORA-ATUAL ":" MINUTO-ATUAL.
            STOP RUN.
