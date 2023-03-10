@@ -3,7 +3,7 @@
 |1. Baixar o VSCode - buscar no Google;|
 |2. Instalar o VSCode (seguir as instruçoes);|
 |3. Após instalar, abrir o VSCode e instalar a extensao "IntelliSense - Highlight" apenas;|
-|4. Baixar os binários do GNU COBOL para Windows (compilados) em: https://drive.google.com/file/d/1vxzD... (link na descricao do video)|
+|4. Baixar os binários do GNU COBOL para Windows (compilados) em: https://drive.google.com/file/d/1vxzDfmOhT21uNzBjasbKg8UjbsJPPGMv/view |
 |5. Criar uma pasta na unidade raiz (geralmente, c:\) - Exemplo: C:\GNUCOBOL;|
 |6. Fazer as configuraçoes das variaveis de ambiente em "Variaveis do Sistema":|
 |  6.1. Criar a variavel COBOL_HOME e apontar para o diretorio principal do GNU COBOL;|
